@@ -18,6 +18,5 @@ INPUT_SETTINGS = {
 };
 pc.script.legacy = false;
 PRELOAD_MODULES = [
-    {'moduleName' : 'Ammo', 'glueUrl' : 'files/assets/115006412/1/ammo.wasm.js', 'wasmUrl' : 'files/assets/115006413/1/ammo.wasm.wasm', 'fallbackUrl' : 'files/assets/115006411/1/ammo.js', 'preload' : true},
     {'moduleName' : 'BASIS', 'glueUrl' : 'files/assets/115006416/1/basis.wasm.js', 'wasmUrl' : 'files/assets/115006417/1/basis.wasm.wasm', 'fallbackUrl' : 'files/assets/115006415/1/basis.js', 'preload' : false},
 ];
